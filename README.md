@@ -12,7 +12,9 @@ Download node-v10.16.1-win-x64.zip from https://nodejs.org/en/download/
 Unzip node-v10.16.1-win-x64.zip
 
 Add following path in Environment Variable's Path, if you have downloaded Node.js Windows Binary (.zip)
+
 	\node-v10.16.1-win-x64\
+
 	\node-v10.16.1-win-x64\node_modules\npm\bin\
 
 Then test following command in command prompt
