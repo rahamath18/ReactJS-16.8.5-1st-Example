@@ -1,12 +1,11 @@
-ReactJS Simple Example using following packages
+## ReactJS Simple Example using following packages
 
 1. ReactJS 16.8.5
 2. Babel 6.26.3
 3. Webpack 4.39.1
 4. https://unpkg.com/
 
-Step-By-Step Guide
-------------------
+### Step-By-Step Guide
 
 Download node-v10.16.1-win-x64.zip from https://nodejs.org/en/download/
 
@@ -20,14 +19,14 @@ Then test following command in command prompt
 	node -v
 	nmp -v
 
-With Webpack and Babel
-----------------------
-Create folder 'D:\ReactJS-16.8.5-1st-Example'
+## With Webpack and Babel
 
-Create  package.json
+### Create folder 'D:\ReactJS-16.8.5-1st-Example'
+
+### Create  package.json
 	D:\ReactJS-16.8.5-1st-Example > npm init -y
 
-Install react and react-dom packages
+### Install react and react-dom packages
 	D:\ReactJS-16.8.5-1st-Example > npm install react --save
 	D:\ReactJS-16.8.5-1st-Example > npm install react-dom --save
 
