@@ -16,7 +16,9 @@ Add following path in Environment Variable's Path, if you have downloaded Node.j
 	\node-v10.16.1-win-x64\node_modules\npm\bin\
 
 Then test following command in command prompt
+
 	node -v
+
 	nmp -v
 
 ## With Webpack and Babel
@@ -54,6 +56,6 @@ Then test following command in command prompt
 	D:\ReactJS-16.8.5-1st-Example > npm start
 	(Browser opens http://localhost:8080/)
 
-To generate the production build
+### To generate the production build
 	D:\ReactJS-16.8.5-1st-Example > npm run build
 	goto ...\ReactJS-16.8.5-1st-Example\bundle
