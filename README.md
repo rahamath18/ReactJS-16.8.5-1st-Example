@@ -30,12 +30,12 @@ Then test following command in command prompt
 	D:\ReactJS-16.8.5-1st-Example > npm install react --save
 	D:\ReactJS-16.8.5-1st-Example > npm install react-dom --save
 
-Install webpack packages (module builder)
+### Install webpack packages (module builder)
 	D:\ReactJS-16.8.5-1st-Example > npm install webpack –save
 	D:\ReactJS-16.8.5-1st-Example > npm install webpack-dev-server --save
 	D:\ReactJS-16.8.5-1st-Example > npm install webpack-cli --save
 
-Install babel packages
+### Install babel packages
 	D:\ReactJS-16.8.5-1st-Example > npm install babel-core --save
 	D:\ReactJS-16.8.5-1st-Example > npm install babel-loader --save [OR]  npm install babel-loader@7 --save
 	D:\ReactJS-16.8.5-1st-Example > npm install babel-preset-env --save
@@ -43,14 +43,14 @@ Install babel packages
 	D:\ReactJS-16.8.5-1st-Example > npm install html-webpack-plugin --save
 	D:\ReactJS-16.8.5-1st-Example > npm install babel-cli babel-preset-es2015 --save
 
-Create following files through commands of refer GitHub URL for source code
+### Create following files through commands of refer GitHub URL for source code
 	D:\ReactJS-16.8.5-1st-Example > type nul > index.html
 	D:\ReactJS-16.8.5-1st-Example > type nul > App.jsx
 	D:\ReactJS-16.8.5-1st-Example > type nul > main.js
 	D:\ReactJS-16.8.5-1st-Example > type nul > webpack.config.js
 	D:\ReactJS-16.8.5-1st-Example > type nul > .babelrc
 
-Run application
+### Run application
 	D:\ReactJS-16.8.5-1st-Example > npm start
 	(Browser opens http://localhost:8080/)
 
